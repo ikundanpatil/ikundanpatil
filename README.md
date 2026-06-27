@@ -92,21 +92,35 @@
 
 <!-- Best Repositories -->
 <div align="center">
-  <h3>⭐️ Interesting Repositories</h3>
-  <p align="center">
+<h3>⭐ Interesting Repositories</h3>
+
+<p align="center">
+
 <a href="https://github.com/ikundanpatil/movie-recommendation-system">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=Wall-E-Desk" /></a>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system" />
+</a>
+
 <a href="https://github.com/ikundanpatil/CodeQuest">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=Void-OSE" /></a>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CodeQuest" />
+</a>
+
 <a href="https://github.com/ikundanpatil/CyberTrace">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=IDE-Cosmo" /></a>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CyberTrace" />
+</a>
+
 <a href="https://github.com/ikundanpatil/CodeRoaster">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=Books-Of-Knowledge" /></a>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CodeRoaster" />
+</a>
+
 <a href="https://github.com/ikundanpatil/ASCIIStudio">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=PixelVault" /></a>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=ASCIIStudio" />
+</a>
+
 <a href="https://github.com/ikundanpatil/My-Projects">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=My-Projects" /></a>
-  </p>
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=My-Projects" />
+</a>
+
+</p>
 </div>
 
 <!-- Tech Stack -->
