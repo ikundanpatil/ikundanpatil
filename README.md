@@ -21,7 +21,7 @@
 
 <!-- MasterHead -->
 <a href="./Animated-bg.gif">
-  <img width="100%" src="https://github.com/ikundanpatil/ikundanpatil/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+  <img width="100%" src="https://github.com/ikundanpatil/ikundanpatil/blob/main/Animated-bg.gif" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
