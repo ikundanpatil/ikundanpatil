@@ -74,11 +74,11 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,,gitlab,react,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,mysql" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,java" /><br>
-</div>
+  <img src="https://skillicons.dev/icons?i=postgres,bootstrap,androidstudio,nodejs,gitlab,react,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,notion,figma" /><br>
+  <img src="https://skillicons.dev/icons?i=youtube" /><br>
+  <!-- <img src="https://skillicons.dev/icons?i=cpp,java" /><br>
+</div> -->
 
 <br>
 
