@@ -52,21 +52,20 @@
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
-<!-- <p> -->
-  🌱 I am currently working on and developing my programming skills.<br>
+
+ <p>  
+   🌱 I am currently working on and developing my programming skills.<br>
   🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
   💬 Skills I acquire in programming languages such as Python, SQL.<br>
   ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
+
 <div align="left">
   <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  
   <a href="https://www.linkedin.com/in/ikundanpatil" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  
   <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  
 </div>
 
 <br>
