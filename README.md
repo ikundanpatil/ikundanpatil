@@ -27,6 +27,10 @@
 <!-- Greeting -->
 <!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
 
+<br>
+<br>
+
+
 <div align="center">
   <!-- Profile Views -->
   
@@ -48,29 +52,36 @@
   
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/ikundanpatil/kundanpatil/blob/main/pixal.gif" />
-
-<!-- About Me -->
-<h3 align="left">💫 About Me</h3>
-
- <p>  
-                         🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
-</p>
-
-<h3 align="left">🧲 Drop me a line:</h3>
-
-<div align="left">
-  <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/ikundanpatil" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-</div>
-
-<br>
 <br>
 
+<!-- <img align="left" alt="coding-gif" width="400" hspace="30" src="https://github.com/ikundanpatil/kundanpatil/blob/main/pixal.gif" /> -->
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- Left Column: The GIF -->
+    <td valign="top" width="400">
+      <img alt="coding-gif" width="400" src="https://github.com/ikundanpatil/kundanpatil/blob/main/pixal.gif" />
+    </td>
+    <!-- Middle Column: The Giant Spacer (Increase width for more space) -->
+    <!-- Right Column: Everything else stacks vertically here -->
+    <td valign="top">
+      <h3>💫 About Me</h3>
+      🌱 I am currently working on and developing my programming skills.<br>
+      🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
+      💬 Skills I acquire in programming languages such as Python, SQL.<br>
+      ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.
+      <br>
+      <h3>🧲 Drop me a line:</h3>
+      <div align="left">
+        <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+        <a href="https://www.linkedin.com/in/ikundanpatil" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+        <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br>
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
