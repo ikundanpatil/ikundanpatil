@@ -95,13 +95,23 @@
 
 <p align="center">
 
-<a href="https://github.com/ikundanpatil/movie-recommendation-system">
+<!-- <a href="https://github.com/ikundanpatil/movie-recommendation-system">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system" />
 </a>
 
 <a href="https://github.com/ikundanpatil/CodeQuest">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CodeQuest" />
-</a>
+</a> -->
+
+<p align="center">
+  <a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=Blog-Website-With-Flask&theme=github_dark&border_radius=10" />
+  </a>
+
+  <a href="https://github.com/ikundanpatil/movie-recommendation-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system&theme=github_dark&border_radius=10" />
+  </a>
+</p>
 
 <a href="https://github.com/ikundanpatil/CyberTrace">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CyberTrace" />
