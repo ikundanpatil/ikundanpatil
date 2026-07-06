@@ -65,7 +65,6 @@
         <a href="https://www.linkedin.com/in/ikundanpatil" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
         <!-- <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/spotify-icon.png" alt="Spotify" /></a> -->
       </div>
-<br>
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
@@ -74,9 +73,7 @@
   <img src="https://skillicons.dev/icons?i=pycharm,c,python,javascript,mysql,cpp,java" /><br>
   <!-- <img src="https://skillicons.dev/icons?i=cpp,java" /><br>
 </div> -->
-
-<br>
-
+  
 <!-- GitHub Status -->
 <!--<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
@@ -88,9 +85,7 @@
 <!-- Best Repositories -->
 <!-- Best Repositories -->
 <div align="center">
-
 <h3>⭐ Interesting Repositories</h3>
-
 <p align="center">
 
 <a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
