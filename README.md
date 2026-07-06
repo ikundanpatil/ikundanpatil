@@ -116,7 +116,7 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=ASCIIStudio" />
 </a>
 
-<a href="https://github.com/ikundanpatil/My-Projects">
+<a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
 <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=My-Projects" />
 </a>
 
