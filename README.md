@@ -56,7 +56,6 @@
 
 <!-- <img align="left" alt="coding-gif" width="400" hspace="30" src="https://github.com/ikundanpatil/kundanpatil/blob/main/pixal.gif" /> -->
 
-  <img alt="coding-gif" width="400" src="https://github.com/ikundanpatil/kundanpatil/blob/main/pixal.gif" />
 <h3 align="left">💫 About Me</h3>
 <p>
   🌱 I am currently working on and developing my programming skills.<br>
