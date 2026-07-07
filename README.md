@@ -58,7 +58,7 @@
 
 <h3 align="left">💫 About Me</h3>
 <p>
-  I'm a second-year Computer Science student at Tilak Maharashtra Vidyapeeth, specializing in Data Science and Machine Learning.I enjoy building practical projects with Python, SQL, JavaScript, and Flask while continuously exploring AI and Machine Learning to solve real-world problems.
+  I'm a second-year Computer Science student at Tilak Maharashtra Vidyapeeth, specializing in Data Science and Machine Learning. I enjoy building practical projects with Python, SQL, JavaScript, and Flask while continuously exploring AI and Machine Learning to solve real-world problems.
 </p>
 <div align="left">
   <a href="ikundanpatil@gmail.com"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
