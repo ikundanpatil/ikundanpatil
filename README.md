@@ -86,33 +86,49 @@
 <!-- Best Repositories -->
 <div align="center">
 <h3>⭐ Interesting Repositories</h3>
-<p align="center">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com">
+        <img src="https://vercel.app" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com">
+        <img src="https://vercel.app" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com">
+        <img src="https://vercel.app" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com">
+        <img src="https://vercel.app" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com">
+        <img src="https://vercel.app" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 5px;">
+      <a href="https://github.com">
+        <img src="https://vercel.app" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=Blog-Website-With-Flask&theme=github_dark&border_radius=10" />
-</a>
-
-<a href="https://github.com/ikundanpatil/movie-recommendation-system">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system&theme=github_dark&border_radius=10" />
-</a>
-
-<a href="https://github.com/ikundanpatil/CyberTrace">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CyberTrace&theme=github_dark&border_radius=10" />
-</a>
-
-<a href="https://github.com/ikundanpatil/CodeRoaster">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=CodeRoaster&theme=github_dark&border_radius=10" />
-</a>
-
-<a href="https://github.com/ikundanpatil/ASCIIStudio">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=ASCIIStudio&theme=github_dark&border_radius=10" />
-</a>
-
-<a href="https://github.com/ikundanpatil/My-Projects">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=ikundanpatil&repo=My-Projects&theme=github_dark&border_radius=10" />
-</a>
-
-</p>
+<br />
 
 </div>
 
