@@ -93,7 +93,7 @@
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=Freelancer-Bot&theme=github_dark" />
 </a>
 
-<a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
+<a href="https://github.com/ikundanpatil/ASCIIStudio">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=Blog-Website-With-Flask&theme=github_dark" />
 </a>
 
@@ -105,7 +105,7 @@
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system&theme=github_dark" />
 </a>
 
-<a href="https://github.com/ikundanpatil/CodeQuest">
+<a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=CodeQuest&theme=github_dark" />
 </a>
 
