@@ -106,7 +106,7 @@
 </a>
 
 <a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=CodeQuest&theme=github_dark" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ikundanpatil&repo=Blog-Website-With-Flask&theme=github_dark" />
 </a>
 
 </p>
