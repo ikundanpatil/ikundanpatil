@@ -62,7 +62,7 @@
 </p>
 <div align="left">
   <a href="ikundanpatil@gmail.com"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-        <a href="#" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kundan-patil-03565441b" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
         <!-- <a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank"><img width="35px" src="https://github.com/ikundanpatil/kundanpatil/blob/main/icons/spotify-icon.png" alt="Spotify" /></a> -->
       </div>
 <!-- Languages & Tools -->
