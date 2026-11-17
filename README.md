@@ -90,11 +90,11 @@
 <p align="center">
 
 <a href="https://github.com/ikundanpatil/Freelancer-Bot">
-  <img width="49%" src="https://github-readme-stats-nine-eosin-99.vercel.app/api/pin/?username=ikundanpatil&repo=Freelancer-Bot&theme=github_dark" />
+  <img width="49%" src="github-readme-stats-green-gamma-47.vercel.app/api/pin/?username=ikundanpatil&repo=Freelancer-Bot&theme=github_dark" />
 </a>
 
 <a href="https://github.com/ikundanpatil/ASCIIStudio">
-  <img width="49%" src="https://github-readme-stats-nine-eosin-99.vercel.app/api/pin/?username=ikundanpatil&repo=ASCIIStudio&theme=github_dark" />
+  <img width="49%" src="github-readme-stats-green-gamma-47.vercel.app/api/pin/?username=ikundanpatil&repo=ASCIIStudio&theme=github_dark" />
 </a>
 
 </p>
@@ -102,11 +102,11 @@
 <p align="center">
 
 <a href="https://github.com/ikundanpatil/movie-recommendation-system">
-  <img width="49%" src="https://github-readme-stats-nine-eosin-99.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system&theme=github_dark" />
+  <img width="49%" src="github-readme-stats-green-gamma-47.vercel.app/api/pin/?username=ikundanpatil&repo=movie-recommendation-system&theme=github_dark" />
 </a>
 
 <a href="https://github.com/ikundanpatil/Blog-Website-With-Flask">
-  <img width="49%" src="https://github-readme-stats-nine-eosin-99.vercel.app/api/pin/?username=ikundanpatil&repo=Blog-Website-With-Flask&theme=github_dark" />
+  <img width="49%" src="github-readme-stats-green-gamma-47.vercel.app/api/pin/?username=ikundanpatil&repo=Blog-Website-With-Flask&theme=github_dark" />
 </a>
 
 </p>
@@ -114,11 +114,11 @@
 <p align="center">
 
 <a href="https://github.com/ikundanpatil/CodeRoaster">
-  <img width="49%" src="https://github-readme-stats-nine-eosin-99.vercel.app/api/pin/?username=ikundanpatil&repo=CodeRoaster&theme=github_dark" />
+  <img width="49%" src="github-readme-stats-green-gamma-47.vercel.app/api/pin/?username=ikundanpatil&repo=CodeRoaster&theme=github_dark" />
 </a>
 
 <a href="https://github.com/ikundanpatil/CyberTrace">
-  <img width="49%" src="https://github-readme-stats-nine-eosin-99.vercel.app/api/pin/?username=ikundanpatil&repo=CyberTrace&theme=github_dark" />
+  <img width="49%" src="github-readme-stats-green-gamma-47.vercel.app/api/pin/?username=ikundanpatil&repo=CyberTrace&theme=github_dark" />
 </a>
 
 </p>
